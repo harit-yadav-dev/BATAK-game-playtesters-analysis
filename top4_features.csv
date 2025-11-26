@@ -1,0 +1,5 @@
+Feature,Importance,Feature_pretty
+left_ratio,0.24086502609992544,Left-hand usage ratio
+right_ratio,0.1500372856077554,Right-hand usage ratio
+hr_mean,0.08754660700969427,"Heart rate (mean, bpm)"
+rt_std,0.0634920634920635,"Reaction Time variability (std, s)"
